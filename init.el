@@ -1,6 +1,8 @@
 (package-initialize)
 (require 'package)
 (add-to-list 'package-archives '("marmalade" . "https://marmalade-repo.org/packages/"))
+(add-to-list 'load-path (concat (expand-file-name user-emacs-directory) "custom-modes"))
+
 (custom-set-variables
  ;; custom-set-variables was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
