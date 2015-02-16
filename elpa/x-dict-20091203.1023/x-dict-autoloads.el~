@@ -1,0 +1,13 @@
+;;; x-dict-autoloads.el --- automatically extracted autoloads
+;;
+;;; Code:
+
+
+(provide 'x-dict-autoloads)
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; no-update-autoloads: t
+;; coding: utf-8
+;; End:
+;;; x-dict-autoloads.el ends here
